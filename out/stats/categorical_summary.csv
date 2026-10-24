@@ -1,0 +1,178 @@
+,attribute,value,count,pct,n_unique
+0,make,Toyota,574,28.4,4
+1,make,Ford,506,25.0,4
+2,make,Chevrolet,489,24.2,4
+3,make,Honda,454,22.4,4
+4,model,Explorer,172,8.5,13
+5,model,F-150,168,8.3,13
+6,model,Silverado 1500,166,8.2,13
+7,model,Escape,166,8.2,13
+8,model,Equinox,165,8.2,13
+9,model,Malibu,158,7.8,13
+10,model,Accord,158,7.8,13
+11,model,RAV4,151,7.5,13
+12,model,Tacoma,151,7.5,13
+13,model,CR-V,150,7.4,13
+14,model,Civic,146,7.2,13
+15,model,Camry,137,6.8,13
+16,model,Corolla,135,6.7,13
+17,trim,unknown,472,23.3,86
+18,trim,LT,176,8.7,86
+19,trim,XLT,157,7.8,86
+20,trim,LE,134,6.6,86
+21,trim,SE,93,4.6,86
+22,trim,EX,91,4.5,86
+23,trim,LX,68,3.4,86
+24,trim,LS,66,3.3,86
+25,trim,EX-L,59,2.9,86
+26,trim,Sport,53,2.6,86
+27,trim,XLE,48,2.4,86
+28,trim,ST-Line,33,1.6,86
+29,trim,RS,30,1.5,86
+30,trim,TRD Sport,29,1.4,86
+31,trim,TRD Off Road,26,1.3,86
+32,trim,RST,23,1.1,86
+33,trim,SR5,23,1.1,86
+34,trim,Limited,22,1.1,86
+35,trim,Active,21,1.0,86
+36,trim,LTZ,18,0.9,86
+37,trim,Hybrid Sport,18,0.9,86
+38,trim,Titanium,17,0.8,86
+39,trim,Lariat,17,0.8,86
+40,trim,Premier,15,0.7,86
+41,trim,Custom,15,0.7,86
+42,trim,Platinum,15,0.7,86
+43,trim,XL,14,0.7,86
+44,trim,Hybrid Sport-L,13,0.6,86
+45,trim,SEL,12,0.6,86
+46,trim,ST,12,0.6,86
+47,trim,Hybrid Touring,12,0.6,86
+48,trim,SR,12,0.6,86
+49,trim,Raptor,11,0.5,86
+50,trim,Hybrid XLE,11,0.5,86
+51,trim,XSE,11,0.5,86
+52,trim,XLE Premium,11,0.5,86
+53,trim,High Country,10,0.5,86
+54,trim,Touring,10,0.5,86
+55,trim,Hybrid EX-L,10,0.5,86
+56,trim,LT Trail Boss,9,0.4,86
+57,trim,2LT,8,0.4,86
+58,trim,Hybrid XSE,8,0.4,86
+59,trim,Timberline,7,0.3,86
+60,trim,Hybrid Sport Touring,7,0.3,86
+61,trim,Hybrid LE,7,0.3,86
+62,trim,Si,6,0.3,86
+63,trim,Hybrid Limited,6,0.3,86
+64,trim,ST-Line Select,5,0.2,86
+65,trim,Hybrid SE,5,0.2,86
+66,trim,S,5,0.2,86
+67,trim,ZR2,4,0.2,86
+68,trim,Hybrid,3,0.1,86
+69,trim,Custom Trail Boss,3,0.1,86
+70,trim,King Ranch,3,0.1,86
+71,trim,SE Nightshade,3,0.1,86
+72,trim,L,3,0.1,86
+73,trim,Hybrid XLE Premium,3,0.1,86
+74,trim,SEL Plug-In Hybrid,2,0.1,86
+75,trim,Plug-In Hybrid,2,0.1,86
+76,trim,Base,2,0.1,86
+77,trim,STX,2,0.1,86
+78,trim,Tremor,2,0.1,86
+79,trim,Sport SE,2,0.1,86
+80,trim,Type R,2,0.1,86
+81,trim,Sport Touring,2,0.1,86
+82,trim,Adventure,2,0.1,86
+83,trim,TRD Pro,2,0.1,86
+84,trim,TRD Off Road Hybrid,2,0.1,86
+85,trim,WT,1,0.0,86
+86,trim,Hybrid Titanium,1,0.0,86
+87,trim,SE Hybrid,1,0.0,86
+88,trim,SE Plug-In Hybrid,1,0.0,86
+89,trim,ST-Line Elite,1,0.0,86
+90,trim,EX-T,1,0.0,86
+91,trim,SE V6,1,0.0,86
+92,trim,XLE V6,1,0.0,86
+93,trim,XSE V6,1,0.0,86
+94,trim,TRD V6,1,0.0,86
+95,trim,S Plus,1,0.0,86
+96,trim,LE Premium,1,0.0,86
+97,trim,APEX SE,1,0.0,86
+98,trim,Hybrid Nightshade Edition,1,0.0,86
+99,trim,Hybrid Woodland,1,0.0,86
+100,trim,PreRunner,1,0.0,86
+101,trim,Trail Special Edition,1,0.0,86
+102,trim,Limited Hybrid,1,0.0,86
+103,body_type,suv,780,38.6,7
+104,body_type,sedan,676,33.4,7
+105,body_type,truck,479,23.7,7
+106,body_type,unknown,30,1.5,7
+107,body_type,hatchback,30,1.5,7
+108,body_type,other,14,0.7,7
+109,body_type,coupe,14,0.7,7
+110,drivetrain,awd/4wd,985,48.7,4
+111,drivetrain,fwd,808,39.9,4
+112,drivetrain,unknown,190,9.4,4
+113,drivetrain,rwd,40,2.0,4
+114,transmission,automatic,1974,97.6,4
+115,transmission,other,24,1.2,4
+116,transmission,manual,24,1.2,4
+117,transmission,unknown,1,0.0,4
+118,fuel_type,gas,1827,90.3,6
+119,fuel_type,hybrid,150,7.4,6
+120,fuel_type,diesel,22,1.1,6
+121,fuel_type,other,15,0.7,6
+122,fuel_type,unknown,8,0.4,6
+123,fuel_type,electric,1,0.0,6
+124,exterior_color,white,410,20.3,12
+125,exterior_color,gray,379,18.7,12
+126,exterior_color,black,362,17.9,12
+127,exterior_color,silver,260,12.9,12
+128,exterior_color,unknown,199,9.8,12
+129,exterior_color,blue,197,9.7,12
+130,exterior_color,red,137,6.8,12
+131,exterior_color,brown,38,1.9,12
+132,exterior_color,other,22,1.1,12
+133,exterior_color,green,12,0.6,12
+134,exterior_color,orange,5,0.2,12
+135,exterior_color,yellow,2,0.1,12
+136,title_status,clean,1940,95.9,6
+137,title_status,rebuilt,53,2.6,6
+138,title_status,unknown,15,0.7,6
+139,title_status,salvage,11,0.5,6
+140,title_status,lien,3,0.1,6
+141,title_status,branded,1,0.0,6
+142,condition,unknown,1480,73.2,7
+143,condition,excellent,281,13.9,7
+144,condition,good,135,6.7,7
+145,condition,like new,107,5.3,7
+146,condition,new,9,0.4,7
+147,condition,fair,7,0.3,7
+148,condition,salvage,4,0.2,7
+149,seller_type,dealer,1699,84.0,2
+150,seller_type,private,324,16.0,2
+151,state,NJ,937,46.3,26
+152,state,PA,301,14.9,26
+153,state,TX,106,5.2,26
+154,state,CA,99,4.9,26
+155,state,AZ,61,3.0,26
+156,state,NY,59,2.9,26
+157,state,CO,58,2.9,26
+158,state,WA,55,2.7,26
+159,state,IL,52,2.6,26
+160,state,GA,51,2.5,26
+161,state,MI,50,2.5,26
+162,state,FL,48,2.4,26
+163,state,MA,48,2.4,26
+164,state,VA,29,1.4,26
+165,state,MD,16,0.8,26
+166,state,NH,14,0.7,26
+167,state,DE,10,0.5,26
+168,state,unknown,9,0.4,26
+169,state,IN,8,0.4,26
+170,state,OH,3,0.1,26
+171,state,VT,3,0.1,26
+172,state,CT,2,0.1,26
+173,state,SC,1,0.0,26
+174,state,WI,1,0.0,26
+175,state,DC,1,0.0,26
+176,state,IA,1,0.0,26

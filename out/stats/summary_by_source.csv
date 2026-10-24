@@ -1,0 +1,3 @@
+source,listings,median_price,mean_price,median_mileage,median_year,min_year,max_year,states
+craigslist,859,12723.0,13919.0,114000.0,2017.0,2012,2024,25
+truecar,1164,25842.0,27175.0,41746.0,2023.0,2012,2024,8

@@ -1,0 +1,18 @@
+step,rows_left,truecar_left,craigslist_left,removed_truecar,removed_craigslist
+raw rows,2160,1185,975,,
+missing price,2084,1164,920,21.0,55.0
+missing year,2084,1164,920,0.0,0.0
+missing make,2084,1164,920,0.0,0.0
+missing model,2084,1164,920,0.0,0.0
+missing mileage,2080,1164,916,0.0,4.0
+"price < $1,500 (placeholder or down payment)",2067,1164,903,0.0,13.0
+"price > $100,000 (typo)",2066,1164,902,0.0,1.0
+"mileage > 400,000",2066,1164,902,0.0,0.0
+mileage < 100 on a 2+ year-old car (placeholder or shorthand),2063,1164,899,0.0,3.0
+"over 60,000 miles per year",2062,1164,898,0.0,1.0
+listing is a different vehicle,2056,1164,892,0.0,6.0
+price far from similar cars (3x IQR of log-price residual),2030,1164,866,0.0,26.0
+duplicate VIN (within or across sources),2028,1164,864,0.0,2.0
+duplicate make/model/year/exact mileage (no-VIN cross-posts),2025,1164,861,0.0,3.0
+duplicate make/model/year/round mileage/price,2024,1164,860,0.0,1.0
+"Craigslist repost (same model, price, and description)",2023,1164,859,0.0,1.0
